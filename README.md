@@ -1,4 +1,4 @@
-# Introduction to High-performance computing in Python for scientists!
+# Introduction to High-Performance Computing in Python for Scientists!
 
 
 **Course description**
@@ -23,5 +23,6 @@ This course is aimed at graduate students and postdocs interested in Python prog
 
 It requires a basic understanding or experience in programming languages (e.g., Matlab, R). An introduction to Python will be provided to study before the seminar starts.
 
+---
 
 _This course was created for the [Goethe Research Academy for Early Career Researchers (GRADE)](https://www.goethe-university-frankfurt.de/), Goethe University Frankfurt, Germany. June 2022._
