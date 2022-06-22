@@ -11,7 +11,7 @@ At the end of this course, you will learn about the followings:
 
 + Designing scripts in Python for data analysis.
 + Traditional scientific programming pipelines to transform and visualize data.
-+ Widely-used Python packages for scientific computing.
++ Widely-used Python packages for scientific computing (i.e, NumPy, Scikit-learn, and Matplotlib).
 + Main challenges and technical aspects about sequential vs parallel computing.
 + Coding high-performance functions written directly in Python using Numba compiler (CPU and GPU).
 
