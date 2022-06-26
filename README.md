@@ -3,7 +3,9 @@
 
 **Course description**
 
-To understand the world, we are constantly transforming, processing, and analyzing acquired data. However, the complexity and amount of data are increasing rapidly, making some calculations intractable. Python offers practical and efficient ways to code routines for scientific pipelines. Additionally, as the computational costs increase with the complexity of routines, HPC plays an important role to facilitate the calculations.
+Data is increasing rapidly with the use of social media, the internet of things, and new data acquisition methods. Large-scale data analysis entails a high computational demand, increasing the time needed in our analysis. As scientists, we need tools to transform, process, and analyse our data to understand our physical and natural world. For scientific computing, quick interaction for preprocessing, data exploration, and analyses is crucial. However, the volume and complexity of the data make this task highly time demanding and sometimes intractable.
+
+In this course, we start with an introduction to Python language and we will discuss its features. We will practice different python functions and compare them to other libraries to speed-up our analysis, and a brief introduction to matplotlib, a wide-used visualization module. Each seminar section will count with a hands-on experience through practical exercise to apply each method and concept. We will get into parallel computing in python, with a focus in multi-threads tasks via Numba compiler. At the end of these seminars, you will be able to execute multi-core tasks in Python and perform multi-core analyses (CPU/GPU).
 
 **Learning Objectives**
 
