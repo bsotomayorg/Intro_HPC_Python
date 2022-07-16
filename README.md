@@ -17,6 +17,17 @@ At the end of this course, you will learn about the followings:
 + Main challenges and technical aspects about sequential vs parallel computing.
 + Coding high-performance functions written directly in Python using Numba compiler (CPU and GPU).
 
+**Contents**
+
+| Day/Block | Description | Run | View |
+| - | --- | ---  | ---- |
+| D1B1 | Brief Introduction to Python programming language. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsotomayorg/Intro_HPC_Python/blob/main/notebooks/01%20-%20Python_Essentials.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/bsotomayorg/Intro_HPC_Python/blob/main/notebooks/01%20-%20Python_Essentials.ipynb?flush_cache=true) |
+| D1B2 | Scientific computing in Python with Numpy, </br>Matplotlib, and Scikit-learn. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsotomayorg/Intro_HPC_Python/blob/main/notebooks/02%20-%20Scientific_Computing_with_Python.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/bsotomayorg/Intro_HPC_Python/blob/main/notebooks/02%20-%20Scientific_Computing_with_Python.ipynb?flush_cache=true) |
+| D1PS | Practical session #1: Application on Neural data. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsotomayorg/Intro_HPC_Python/blob/main/notebooks/03%20-%20Practical_Session_Neural_Dataset.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/bsotomayorg/Intro_HPC_Python/blob/main/notebooks/03%20-%20Practical_Session_Neural_Dataset.ipynb?flush_cache=true) |
+| D2B1 | High-Performance Computing with Numba JIT compiler.\nMulti-CPU programming. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsotomayorg/Intro_HPC_Python/blob/main/notebooks/04%20-%20Multi-CPU_programming_in_Python.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/bsotomayorg/Intro_HPC_Python/blob/main/notebooks/04%20-%20Multi-CPU_programming_in_Python.ipynb?flush_cache=true) |
+| D2B2 | High-Performance Computing with Numba JIT compiler.\nGPU programming. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsotomayorg/Intro_HPC_Python/blob/main/notebooks/05%20-%20GPU_programming_in_Python.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/bsotomayorg/Intro_HPC_Python/blob/main/notebooks/05%20-%20GPU_programming_in_Python.ipynb?flush_cache=true) |
+
+
 **Who should attend**
 
 This course is aimed at graduate students and postdocs interested in Python programming language, introductory concepts, and their applications of HPC. It requires a basic understanding of programming (e.g., data structures, control statements) or experience in other programming languages (e.g., Matlab, R).
